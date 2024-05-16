@@ -1,9 +1,11 @@
 {
-  "hash": "431871eed7fd5a8901c14302e8d9d2f9",
+  "hash": "448d1ec3b9cbc688e29f34d51f008efe",
   "result": {
     "engine": "knitr",
-    "markdown": "# Preface {.unnumbered}\n\nWelkom! Dit is mijn bestseller die minstens 50 weken op de bestsellerlijst gaat staan. Helloooo!\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nNiemand heeft ooit zoiets gelezen!",
-    "supporting": [],
+    "markdown": "# Preface {.unnumbered}\n\nWelkom allemaal! Dit is mijn bestseller die minstens 50 weken op de bestsellerlijst gaat staan. Nee hoor, dit is alleen een test ;)\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nNiemand heeft ooit zoiets gelezen!",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

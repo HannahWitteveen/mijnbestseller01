@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "mijnbestseller01",
     "section": "",
-    "text": "Preface\nWelkom! Dit is mijn bestseller die minstens 50 weken op de bestsellerlijst gaat staan. Helloooo!\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\nNiemand heeft ooit zoiets gelezen!",
+    "text": "Preface\nWelkom allemaal! Dit is mijn bestseller die minstens 50 weken op de bestsellerlijst gaat staan. Nee hoor, dit is alleen een test ;)\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\nNiemand heeft ooit zoiets gelezen!",
     "crumbs": [
       "Preface"
     ]
@@ -14,7 +14,7 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\nDit is een mooi plaatje \nMijn boek is zo fantastisch dat iedereen het wil lezen. Hier zit ontzettend veel inhoud in!\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\nDit is een mooi plaatje \nMijn boek is zo fantastisch dat iedereen het wil lezen. Hier zit ontzettend veel inhoud in!\nMaar wees gerust: het is voor iedereen gratis toegankelijk :)!\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -37,6 +37,16 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "Chapter1.html",
+    "href": "Chapter1.html",
+    "title": "2  Gewichtigdoenerij",
+    "section": "",
+    "text": "Dit is heel erg belangrijk maar niet heus.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Gewichtigdoenerij</span>"
     ]
   }
 ]
