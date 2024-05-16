@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-Welkom! Dit is mijn bestseller die minstens 50 weken op de bestsellerlijst gaat staan. Helloooo!
+Welkom allemaal! Dit is mijn bestseller die minstens 50 weken op de bestsellerlijst gaat staan. Helloooo!
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
